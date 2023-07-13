@@ -1111,7 +1111,7 @@ a:hover {
 }
 .bars a {
   justify-content: left;
-  left:-550px;
+  left:-450px;
 
   color: #ffffff;
   font-size: 24px;
