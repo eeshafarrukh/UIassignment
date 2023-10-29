@@ -1,11 +1,20 @@
-**Test Project 11**
+## Test Project 11
 
-*Description*: This project contains HTML and CSS files, serving as a basic web development template.
+**Description:** 
+This project contains HTML and CSS files, serving as a basic web development template.
 
-*Getting Started*: Clone the repository using the command: `git clone https://github.com/eeshafarrukh/UIassignment.git`
+**Getting Started:** 
+Clone the repository using the command: `git clone https://github.com/eeshafarrukh/UIassignment.git`
 
-*Usage*: Open `index.html` in a web browser to view the webpage and edit the design using `style.css`.
+**Usage:** 
+1. Open `index.html` in a web browser to view the webpage.
+2. Edit the design using `style.css`.
 
-*Contributing*: Fork the repository, make your changes, and submit a pull request to contribute.
+**Contributing:** 
+To contribute, follow these steps:
+- Fork the repository.
+- Make your changes.
+- Submit a pull request.
 
-*License*: This project is open source and available under the MIT License.
+**License:** 
+This project is open source and available under the MIT License.
