@@ -1,7 +1,7 @@
 ## Test Project 11
 
 **Description:** 
-This project contains HTML and CSS files, serving as a basic web development template.
+This project serves as a fundamental web development assignment, emphasizing the implementation of responsive design and interactive user interfaces using HTML and CSS.
 
 **Getting Started:** 
 Clone the repository using the command: `git clone https://github.com/eeshafarrukh/UIassignment.git`
@@ -17,4 +17,4 @@ To contribute, follow these steps:
 - Submit a pull request.
 
 **License:** 
-This project is open source and available under the MIT License.
+This project is open source.
